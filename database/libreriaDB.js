@@ -12,14 +12,14 @@ db.usuarios.insertMany([
   {
     username: "carlos23",
     email: "carlos@example.com",
-    hashed_password: "segura123",
+    password: "segura123",
     rol: "cliente",
     fecha_creacion: new Date("2025-05-25")
   },
   {
     username: "admin2",
     email: "admin2@example.com",
-    hashed_password: "adminsecure",
+    password: "adminsecure",
     rol: "admin",
     fecha_creacion: new Date("2025-05-25")
   }

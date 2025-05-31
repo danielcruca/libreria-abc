@@ -9,7 +9,7 @@ Este proyecto consiste en la creación de una **API con MongoDB** para una **lib
 {
   "username": "juanperez",
   "email": "juan@example.com",
-  "hashed_password": "supersegura123",
+  "password": "supersegura123",
   "rol": "cliente",
   "fecha_creacion": "2025-05-14T00:13:32.275Z"
 }
